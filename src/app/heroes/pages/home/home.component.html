@@ -26,7 +26,8 @@
             <mat-icon>menu</mat-icon>
         </button>
         <span class="spacer"></span>
-        <button mat-raised-button color="warn">
+        <span style="margin: 5px ;">{{userAuth.usuario}}</span>
+        <button mat-raised-button color="warn" (click)="logout()">
             Logout
         </button>
     </mat-toolbar>
