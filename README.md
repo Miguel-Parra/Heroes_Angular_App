@@ -3,7 +3,7 @@
 El proyecto fue elaborado con [Angular CLI](https://github.com/angular/angular-cli) versión 13.3.3.
 ## **Descripción**
 
-En esta aplicación se implemento:
+En esta aplicación se implementó:
 - Un CRUD de Heroes mediante la conexión al backend JSON-Server
 - Carga de módulos bajo el concepto LazyLoad
 - Autocomplete en la búsqueda de héroes mediante el uso de los componentes de Angular Material.
